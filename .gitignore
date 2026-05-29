@@ -1,0 +1,26 @@
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.sqlite
+*.db
+
+# Private source materials
+private/
+raw-data/
+vault/
+contacts/
+pipeline/
+resumes/
+transcripts/
+exports/
+
+# Local tooling
+node_modules/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
